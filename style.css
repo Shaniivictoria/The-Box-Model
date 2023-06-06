@@ -1,0 +1,58 @@
+*{
+    text-align: center;
+    
+   
+}
+
+body{
+    background-color: rgb(129, 99, 99); 
+}
+
+
+.boxOne{
+    border: 20px solid orange;
+    border-bottom: none;
+    height: 150px;
+    width: 150px;
+    
+
+}
+
+.boxTwo{
+    border: 30px solid black;
+    border-width: 1px 10px 20px 30px;
+    height: 150px;
+     width: 150px;
+   
+}
+
+.box3{
+    border: 45px solid green;
+    border-top: none;
+    height: 150px;
+    width: 150px;
+}
+
+.box5{
+    border: 55px solid red;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+
+.box6{
+    border: 65px solid yellow;
+    border-style: dotted;
+    height: 150px;
+    width: 150px;
+}
+
+
+.box7{
+    border: 75px solid brown;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 45%;
+    height: 150px;
+    width: 150px;
+}
